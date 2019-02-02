@@ -1,4 +1,3 @@
 # hello-world
-first project
+Python Introduction
 
-My name is Spencer.
